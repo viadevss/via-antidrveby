@@ -1,1 +1,3 @@
-# via-antidrveby
+# VIA ANTIDRIVEBY
+
+Just add resource file and start script.
